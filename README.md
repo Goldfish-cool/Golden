@@ -16,6 +16,6 @@ Settings: Enter your user ID, webhook URL, and VIP status for a personalized exp
 # 🚀 To Get Started
 
 Prerequisites
-Python 3.7+: Download Python here and follow installation instructions.
+Python 3.7+: [Download Python here](https://www.python.org/downloads/)and follow installation instructions.
 
 AutoHotkey: Download AutoHotkey here and install it on your system.
