@@ -16,6 +16,6 @@ Settings: Enter your user ID, webhook URL, and VIP status for a personalized exp
 # 🚀 To Get Started
 
 Prerequisites
-Python 3.7+: [Download Python here](https://www.python.org/downloads/)and follow installation instructions.
+Python 3.7+: [Download Python here](https://www.python.org/downloads/) and follow installation instructions.
 
-AutoHotkey: Download AutoHotkey here and install it on your system.
+AutoHotkey:[ Download AutoHotkey here](https://www.autohotkey.com/) and install it on your system. But PLEASE make sure you download the v1.1 (decaped) if you download the v2.0 you can open anymacros
